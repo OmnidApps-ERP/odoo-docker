@@ -1,6 +1,6 @@
 # About this Repo
 
-This is the Git repo of a custom build of Odoo maintained by OmnidApps. The Docker image is hosted [here](https://registry.hub.docker.com/omnidapps/odoo).
+This is the Git repo of a custom build of Odoo maintained by OmnidApps. The Docker image is hosted [here](https://registry.hub.docker.com/r/omnidapps/odoo).
 
 # Derivative Work
 
