@@ -1,5 +1,5 @@
 FROM debian:bullseye-slim
-MAINTAINER Odoo S.A. <info@odoo.com>
+MAINTAINER OmnidApps LLC <admin@omnidapps.com>
 
 SHELL ["/bin/bash", "-xo", "pipefail", "-c"]
 
